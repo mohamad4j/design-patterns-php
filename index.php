@@ -7,5 +7,11 @@
  */
 echo 'DESIGN PATTERNS IN PHP';
 echo "</br></br>";
-//factory
-include('Creational/AbstractFactory.php');
+//Factory
+//include('Creational/Factory.php');
+
+//Abstract Factory
+//include('Creational/AbstractFactory.php');
+
+//Builder
+include('Creational/Builder.php');
