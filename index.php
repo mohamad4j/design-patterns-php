@@ -14,4 +14,7 @@ echo "</br></br>";
 //include('Creational/AbstractFactory.php');
 
 //Builder
-include('Creational/Builder.php');
+//include('Creational/Builder.php');
+
+//Prototype
+include('Creational/Prototype.php');
