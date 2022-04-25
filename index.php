@@ -17,4 +17,10 @@ echo "</br></br>";
 //include('Creational/Builder.php');
 
 //Prototype
-include('Creational/Prototype.php');
+//include('Creational/Prototype.php');
+
+//Singleton
+//include('Creational/Singleton.php');
+
+//Adapter
+include('Structural/Adapter.php');
